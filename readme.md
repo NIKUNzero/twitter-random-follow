@@ -10,10 +10,18 @@ config.pyに貴方のAPI KEYを入れ、run.pyの検索ワードを貴方の興�
 ### Windows
 
 ```
+pip install tweepy
+```
+
+```
  python run.py 
 ```
 
 ### Unix(MacOS,Linux)
+
+```
+pip3 install tweepy
+```
 
 ```
 python3 run.py
